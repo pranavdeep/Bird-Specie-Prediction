@@ -9,4 +9,4 @@ Link : http://www.vision.caltech.edu/visipedia/CUB-200.html
 
 Models Used : Random Forest
 
-(Developed during an internship where I worked as a Teaching Assistant. This repository is a simple tutorial)
+
